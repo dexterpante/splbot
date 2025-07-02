@@ -6,3 +6,9 @@ data
 /.streamlit/secrets.toml
 /**/.coverage
 /**/coverage.xml
+
+# Byte-compiled files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
